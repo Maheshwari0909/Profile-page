@@ -10,8 +10,6 @@
 
 - 📝 VS Code – Code editing
 
-- 🌐 Browser – Testing and previewing
-
 # 🧭 Steps Included
 - 🏗️ Created HTML structure with semantic tags
 
